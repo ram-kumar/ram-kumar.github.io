@@ -10,7 +10,8 @@ This section covers some programming questions. The goal is to develop logic and
 
 1. Check whether a number [taken as an input] is even or odd 
 2. Check wheter an input character is an vowel or not 
-3. Write a program to take in two numbers [dividend and divisor]. Output of the program should be the quotient and remainder.
+3. Write a program to take in two numbers [dividend and divisor]. 
+   Output of the program should be the quotient and remainder.
 4. Calculate the sum of all natural numbers upto a given/input number 
 5. Write a program to swap two varibles 
         `Ex: a = 5, b = 10
