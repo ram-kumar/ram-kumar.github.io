@@ -4,7 +4,7 @@ This will contain link to programming slide-deck and robotic slide-deck.
 
 ### Programming
 
-This section covers some programming questions. The goal is to develop logic and doing basic programming exercises. All of these programs can be developed in any language of your convenience.
+This section covers some programming questions. The goal is to develop logic by doing basic programming exercises. All of these programs can be developed in any language of your convenience.
 
 ```markdown
 
