@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/ram-kumar/ram-kumar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This will contain link to programming slide-deck and robotic slide-deck.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Programming
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This section covers some programming questions. The goal is to develop logic and doing basic programming exercises. All of these programs can be developed in any language of your convenience.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# ** Check whether a number [taken as an input] is even or odd **
+# ** Check wheter an input character is an vowel or not **
+# ** Write a program to take in two numbers [dividend and divisor]. Output of the program should be the quotient and remainder. **
+# ** Calculate the sum of all natural numbers upto a given/input number **
+# ** Write a program to swap two varibles **
+        `Ex: a = 5, b = 10
+         At the end of the program/logic, a = 10, b = 5`
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ram-kumar/ram-kumar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
