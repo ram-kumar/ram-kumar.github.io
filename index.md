@@ -31,7 +31,7 @@ This section covers some programming questions. The goal is to develop logic by 
 3. Install Editor called gvim - There are various editors - we will focus on vim/gvim
     `# sudo apt-get install vim-gtk3`
 4. Launch gvim from command prompt
-    # gvim
+    `# gvim`
 5. Explore gvim editor - like any editor you can save a file, edit a file etc.
 6. Compiling a C program saved/edited through gvim. Let us say the file is a.c
     `# gcc a.c
