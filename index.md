@@ -49,6 +49,8 @@ This section covers some programming questions. The goal is to develop logic by 
     `# a.out 
       or 
      # myfirstprog`
+9. Running a python program say a.py - note there is no compilation required
+    `# python a.py`
 
 ```
 
