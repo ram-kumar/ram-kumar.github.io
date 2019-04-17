@@ -48,7 +48,7 @@ This section covers some programming questions. The goal is to develop logic by 
 8. Running a program compiled for C/C++ from terminal [for python, there is no step of compilation]
     `# a.out 
       or 
-     # myfirstprog'
+     # myfirstprog`
 
 ```
 
