@@ -16,6 +16,11 @@ This section covers some programming questions. The goal is to develop logic by 
 5. Write a program to swap two varibles 
         `Ex: a = 5, b = 10
          At the end of the program/logic, a = 10, b = 5`
+6. Write a Program to display a multiplication table of a number 
+   taken as input.
+7. Write a Simple Calculator.
+8. Convert a string to capital letters or convert to small letters if given.
+9. Convert a Sentence or group of sentences given in any case into a Sentence Case.
 
 ```
 
